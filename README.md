@@ -21,7 +21,6 @@ ejercicios-desarrollo/
 │
 └── README.md
 
-
 🔹 Donde `NombreApellido` debe reemplazarse por el nombre real de cada integrante.  
 🔹 Dentro de cada carpeta van todos los ejercicios individuales de cada clase.  
 
